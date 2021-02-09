@@ -23,7 +23,7 @@ A resource for storing information available to a computer program.
 |company|The name of the organization listed in the file located at `image_path`.
 |content|The contents of the file.|`Hello World`|
 |creation_time|The creation time of the file as described in UTC and including the date.|`05/14/2015 12:47:06`|
-|file_extension|The file extnsion of the file.|`docx`|
+|file_extension|The file extension of the file.|`docx`|
 |file_name|The name of the file.|`MyWordDoc.docx`|
 |file_path|The full path to the file.|`C:\users\fakeuser\documents\MyFile.docx`|
 |file_gid|The group ID of the file|`801`|
